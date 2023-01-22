@@ -31,17 +31,17 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 global.thumb = fs.readFileSync('./image/thumbnail.jpg') // JGN DI UBAH!
-global.name = 'Ayenn YT', // GNTI NAMA LU!
-global.creator = 'Warsiwa Store💸' // GANTI NAMA BOT LU BANH!
-global.owner = ['6285780138598'] // GNTI NOMOR LU!
-global.premium = ['6285780138598', '6285774416712']
+global.name = 'rival.fly', // GNTI NAMA LU!
+global.creator = 'RRshop Store💸' // GANTI NAMA BOT LU BANH!
+global.owner = ['6281214307663'] // GNTI NOMOR LU!
+global.premium = ['62', '62']
  // ADD PREM YG LU MAU BANH!!
 global.quotes = 'Kesempatan Anda Untuk Sukses Di Setiap Kondisi Selalu Dapat Diukur Oleh Seberapa Besar Kepercayaan Anda Pada Diri Sendiri' // Ganti Quotes, Tapi Trsrh Klian
-global.pulsa = ['085780138598'] // UBAH NOMOR YG AKTIF!
-global.botname = 'Created Warsiwa Store💸' // GNTI NAMA BOT LU!
-global.packname = 'Nih Stikel Umtukmu' // TRSERAH MO GANTI AP!
-global.author = 'Ayenn YT' // GNTI NMA LU!
-global.fake = 'Warsiwa Store💸 VERIFIED' // GNTI NMA BOT LU BANH!
+global.pulsa = ['085722881931'] // UBAH NOMOR YG AKTIF!
+global.botname = 'Created RRshop Store💸' // GNTI NAMA BOT LU!
+global.packname = 'RRshop stiker by rival' // TRSERAH MO GANTI AP!
+global.author = 'rival.fly' // GNTI NMA LU!
+global.fake = 'RRshop Store💸 VERIFIED' // GNTI NMA BOT LU BANH!
 global.prefa = ['','!','.','/','#','$']
 global.sp = '⭔' // JGN DI UBAH²! NTR EROR
 global.mess = {
