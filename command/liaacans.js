@@ -1707,7 +1707,7 @@ Note : Jangan Spam Bot Dan
 Call, Jika Tidak Ingin Di Block Bot`
 const listMessage = {
   text: menunyaa,
-  footer: "© Created By LiaaCans BOT",
+  footer: "© RRshop store",
   buttonText: "Klik Disini",
   sections
 }
